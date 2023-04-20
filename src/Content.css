@@ -1,0 +1,11 @@
+.content {
+    letter-spacing: 0.05rem;
+    line-height: 25px;
+    padding: 20px;
+    text-align: justify;
+    direction: ltr
+}
+
+.content p {
+    padding: 20px;
+}
